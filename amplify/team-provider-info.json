@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fqamplifytesta046ca69": {}
+      },
+      "api": {
+        "fqamplifytest": {}
+      },
+      "storage": {
+        "s3f067408e": {}
       }
     }
   }

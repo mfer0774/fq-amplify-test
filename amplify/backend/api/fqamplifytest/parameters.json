@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "fqamplifytest",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-09-21T16:31:10.017Z"
+}
